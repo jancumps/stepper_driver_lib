@@ -18,6 +18,5 @@ class wakeup { // driver out of sleep as long as object in scope
     private:
         stepper_driver& driver_;
 };
-   
 
 } // namespace stepper_driver
